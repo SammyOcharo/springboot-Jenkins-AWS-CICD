@@ -11,7 +11,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'git@github.com:SammyOcharo/springboot-Jenkins-AWS-CICD.git'
+                git branch: 'main', url: 'https://github.com/SammyOcharo/springboot-Jenkins-AWS-CICD.git'
             }
         }
 
