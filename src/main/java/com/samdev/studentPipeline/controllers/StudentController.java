@@ -28,8 +28,13 @@ public class StudentController {
         return studentService.allStudents();
     }
 
-    @GetMapping("all-students/")
+    @GetMapping("all-teachers/")
     public List<String> allTeachers(){
         return studentService.allTeachers();
+    }
+
+    @GetMapping("all-workers/")
+    public List<String> allWorkers(){
+        return studentService.allWorkers();
     }
 }
