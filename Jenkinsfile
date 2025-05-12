@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         AWS_REGION = 'eu-west-1'
-        ECR_REPO = '229975685295.dkr.ecr.eu-west-1.amazonaws.com/springboot-app'
+        ECR_REPO = 'springboot-app'
         AWS_ACCOUNT_ID = '229975685295'
         IMAGE_TAG = 'latest'
     }
