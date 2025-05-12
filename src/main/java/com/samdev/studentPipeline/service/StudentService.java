@@ -9,4 +9,8 @@ public class StudentService {
     public List<String> allStudents() {
         return List.of("Sammy Ocharo", "Jaden Njuguna");
     }
+
+    public List<String> allTeachers() {
+        return List.of("Sammy Steve", "Jaden Steve");
+    }
 }
