@@ -1,6 +1,3 @@
-# springboot-Jenkins-AWS-CICD
-
-
 # Spring Boot CI/CD Pipeline with Jenkins, Docker, AWS ECS & ECR
 
 ## Overview
