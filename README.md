@@ -137,5 +137,3 @@ If the ECS service is not responding, ensure:
 ![Docker Build](https://img.shields.io/badge/Docker-Build-orange)
 
 ---
-
-```markdown
