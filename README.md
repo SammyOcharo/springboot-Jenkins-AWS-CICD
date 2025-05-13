@@ -138,6 +138,4 @@ If the ECS service is not responding, ensure:
 
 ---
 
-By including **animations** or **badges**, the readme can become more interactive. You can use **GIFs** for any animations you'd like to showcase, such as showing the build process in Jenkins or ECS deployment, or showing badges for build status, Docker status, or test coverage. Here are a few examples:
-
 ```markdown
